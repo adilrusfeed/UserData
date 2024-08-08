@@ -26,7 +26,15 @@ In this App we can see the User's data especially their name wise in Homescreen 
  ![Screenshots](assets/search%20image.jpeg)
 
 
+# To run this app
+  clone the repository 
 
+  1) git clone<https://github.com/adilrusfeed/UserData>
+
+  2) cd UserData
+
+  3) run "pubget" to fetch dependencies
+  
 
 ## Getting Started
 
